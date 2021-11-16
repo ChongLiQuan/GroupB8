@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/activity_history.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/activity_login.xml" value="0.278125" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/activity_main.xml" value="0.278125" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/activity_purchase.xml" value="0.278125" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/cart_gallery.xml" value="0.278125" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/cart_item.xml" value="0.278125" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/edit_profile.xml" value="0.278125" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/food_gallery.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/history_item.xml" value="0.278125" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/register_main.xml" value="0.278125" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/tips_calculator.xml" value="0.278125" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/layout/user_profile.xml" value="0.278125" />
+        <entry key="..\:/Users/Ryan Khoo/AndroidStudioProjects/FoodOrdering/app/src/main/res/menu/menu.xml" value="0.278125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

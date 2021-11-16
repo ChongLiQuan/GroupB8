@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food Ordering</string>
+    <string name="totalbill">"Total Bill (RM): </string>
+    <string name="cart_button">Confirm Order</string>
+    <string name="splitbill">Spliting Bill? No worries. </string>
+    <string name="spiltbill2">Pax</string>
+    <string name="total_split_text">Each pax (RM): </string>
+    <string name="confirm_msg1">Order Successfully !</string>
+    <string name="confirm_msg2">Thank you for placing your order with us. You will be receiving your order on your door step around 20 - 40 mints.</string>
+</resources>
